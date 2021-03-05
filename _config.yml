@@ -585,6 +585,10 @@ algolia_search:
 
 gems:
   - algoliasearch-jekyll
+ 
+ algolia:
+  application_id: '92H75PTWPN'
+  index_name:     'scienlee'
 
 # Local search
 local_search:
