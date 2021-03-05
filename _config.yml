@@ -583,6 +583,8 @@ algolia_search:
     hits_empty: "We didn't find any results for the search: ${query}"
     hits_stats: "${hits} results found in ${time} ms"
 
+gems:
+  - algoliasearch-jekyll
 
 # Local search
 local_search:
