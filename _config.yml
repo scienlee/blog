@@ -598,9 +598,6 @@ local_search:
 # Alias: {% extlink text url "title" %}
 exturl: false
 
-# Swiftype Search Key
-swiftype_key: PxJ6oHgBdxy3pj5ZtdMd
-
 
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING SETTINGS
