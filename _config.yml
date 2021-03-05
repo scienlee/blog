@@ -594,7 +594,7 @@ local_search:
   top_n_per_article: 1
 
 # Swiftype Search Key
-swiftype_key: PxJ6oHgBdxy3pj5ZtdMd
+swiftype_key: zkVT-v1Yw_4f_3Cxi5fp
 
 # External URL with BASE64 encrypt & decrypt
 # Usage: {% exturl text url "title" %}
