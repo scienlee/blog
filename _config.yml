@@ -95,7 +95,7 @@ rss:
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: false
+copyright: ture
 
 # ---------------------------------------------------------------
 # SEO Settings
