@@ -81,6 +81,7 @@
 .footer-inner {
   margin: 0 auto;
   text-align: left;
+  vertical-align: middle;
 
   @include mobile() {
     width: auto;
